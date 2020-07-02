@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=TestEyeTracker\TestEyeTracker.PrjPcb
+[Project2]
+ProjectPath=CompleatEyeTracker\CompleatEyeTracker.PrjMbd
+[Project3]
+ProjectPath=Left Eye Module\Left Eye Module.PrjPcb
+[Project4]
+ProjectPath=Forehead Module\Forehead Module.PrjPcb
+[Project5]
+ProjectPath=Breakaway USB Module\Breakaway USB Module.PrjPcb
